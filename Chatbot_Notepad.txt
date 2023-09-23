@@ -1,0 +1,48 @@
+Welcome To Chatbot which is useful for University.
+Who has created Chatbot?
+Creater is Shruti Manohar Narad.
+
+Names who has created the chatbot.
+Shruti Manohar Narad 21BCS10829.
+
+what is University Id of Creater?
+21BCS10829.
+
+who is your best friend?
+Harshit
+
+Hello.
+I am CUbot.
+How are you.
+How can I help You? What help is needed for you?
+Ask me any Question! I am able to give answer related to University.
+
+For Class 125 A,
+Name of subjects for 125A class Maths,Physics For Engineers BEEE DT CAD IPR Mentoring Professional Communication.
+Total number of subjects is 8 for 125A.
+Teachers for every subject 
+For Maths, Resham pal. For Physics for Engineers,Harmanpreet kaur. For Mentoring,Harmanpreet kaur. For BEEE, Akhil Nigam. For CAD, Pankaj Sir.etc.
+Chandigarh University has Blackboard and CUIMS for working purpose. 
+Use of blackboard is Blackboard is for subject analysis practicals worksheets pre post assignment and surprise test.
+Use of CUIMS is Student's Profile where a student can get information about himself like marks clubs cerificate etc.
+Give me the idea of exams for overall semester there is 2 mid term exams 1 mid term practical exam and final semester is too.
+Marks obtained in subject will show here.
+Yash got 30/40 marks in maths mst 1 and 2 60/80 in finals.
+udit got 33/40 marks in physics mst 1 and in 2 is 29/40 62/80 in finals.
+
+Use of chatbot is, It is use to quetioning and answering purpose.
+Meaning of Chatbot is the program which is use to communicate with user and computer,
+even it is useful for talk and if you want chatbot will provide you information.
+
+Education refers to ‘the process of providing and receiving instructions, through academic and scholastic efforts.’ Education is a process that begins at home. It differentiates humans from other living things.
+Education disciplines and develops both academic performances as well as curricular activities. A person learns to read, write, speak, practice activities, and learn various skills through Education. Education makes a person independent and self-sufficient.
+Learning is a part of Education and can be learned from anyone around us, even from an ant, who teaches us to try until we achieve success. Therefore, one needs to adapt, learn, and educate oneself to become knowledgeable.
+Education is a process of learning through which we acquire knowledge. It enlightens, empowers, and creates a positive development. Education gives an individual the knowledge and skills to work with virtue. It aids the all-round mental, physical, and intellectual growth and development of an individual.
+There are three distinct types of Education- Formal Education, Non-Formal Education, and Informal Education. Education aims to change the way of one’s thinking. Academic knowledge provides one leaning on a global scale, while Practical knowledge is acquired for life on the whole.
+This past summer, I had the privilege of participating in the University of Notre Dame’s Research Experience for Undergraduates (REU) program . Under the mentorship of Professor Wendy Bozeman and Professor Georgia Lebedev from the department of Biological Sciences, my goal this summer was to research the effects of cobalt iron oxide cored (CoFe2O3) titanium dioxide (TiO2) nanoparticles as a scaffold for drug delivery, specifically in the delivery of a compound known as curcumin, a flavonoid known for its anti-inflammatory effects. As a high school student trying to find a research opportunity, it was very difficult to find a place that was willing to take me in, but after many months of trying, I sought the help of my high school biology teacher, who used his resources to help me obtain a position in the program.				
+Using equipment that a high school student could only dream of using, I was able to map apoptosis (programmed cell death) versus necrosis (cell death due to damage) in HeLa cells, a cervical cancer line, after treating them with curcumin-bound nanoparticles. Using flow cytometry to excite each individually suspended cell with a laser, the scattered light from the cells helped to determine which cells were living, had died from apoptosis or had died from necrosis. Using this collected data, it was possible to determine if the curcumin and/or the nanoparticles had played any significant role on the cervical cancer cells. Later, I was able to image cells in 4D through con-focal microscopy. From growing HeLa cells to trying to kill them with different compounds, I was able to gain the hands-on experience necessary for me to realize once again why I love science.				
+Living on the Notre Dame campus with other REU students, UND athletes, and other summer school students was a whole other experience that prepared me for the world beyond high school. For 9 weeks, I worked, played and bonded with the other students, and had the opportunity to live the life of an independent college student.				
+Along with the individually tailored research projects and the housing opportunity, there were seminars on public speaking, trips to the Fermi National Accelerator Laboratory, and one-on-one writing seminars for the end of the summer research papers we were each required to write. By the end of the summer, I wasn’t ready to leave the research that I was doing. While my research didn’t yield definitive results for the effects of curcumin on cervical cancer cells, my research on curcumin-functionalized CoFe2O4/TiO2 core-shell nanoconjugates indicated that there were many unknown factors affecting the HeLa cells, and spurred the lab to expand their research into determining whether or not the timing of the drug delivery mattered and whether or not the position of the binding site of the drugs would alter the results. Through this summer experience, I realized my ambition to pursue a career in research. I always knew that I would want to pursue a future in science, but the exciting world of research where the discoveries are limitless has captured my heart. This school year, the REU program has offered me a year-long job, and despite my obligations as a high school senior preparing for college, I couldn’t give up this offer, and so during this school year, I will be able to further both my research and interest in nanotechnology. 
+
+
+

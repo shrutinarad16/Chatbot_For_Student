@@ -6,7 +6,7 @@ Ask any question, you will get answer of it.
 
 # Upadte in .txt file
 Update your .txt file as per your requirement.
-Here, 
+Here, Chatbot_Notepad.txt is used as .txt file.
 
 # Where to Run?
 Run on Google-Colab
